@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;in.co.rays.project4.Ctl&apos; to &apos;project_4 ORS/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;project_4 ORS&apos;&#x0D;&#x0A;- Destination element: &apos;project_4 ORS/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;project_4 ORS/src/test/java/in.co.rays.project4.Ctl&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;in.co.rays.project4.Ctl" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1649526943958" version="1.0"/>
+</session>
